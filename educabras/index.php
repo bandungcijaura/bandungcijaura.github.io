@@ -4,8 +4,8 @@
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
 <head>
 <meta charset="utf-8" />
-<title>JP Paus Mahjong Wins3 Meledak Saat Bujang dan Achan Iseng Main Sambil Nonton OTT Ebenezer</title>
-<meta name="description" content="Iseng main Mahjong Wins3 sambil nonton OTT Ebenezer, Bujang dan Achan justru dapat JP Paus meledak hingga tembus Rp89 juta. Scatter hitam muncul beruntun!" />
+<title>Design Modif Unik Toyota Avanza Veloz di Kontes Modif Purwokerto! Berani Beda Pakai Sticker Starlight Princess di Kap Mesin</title>
+<meta name="description" content="Avanza Veloz modif di kontes Purwokerto jadi sorotan karena kap mesinnya dihiasi stiker Starlight Princess. Beda dari yang lain, langsung viral!" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
 <meta name="robots" content="max-image-preview:large">
 <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
@@ -13,17 +13,17 @@
 <meta name="robots" content="index, follow" />
 <meta name="language" content="Indonesia" />
 <meta name="author" content="IDNCASH RANSPLAY" />
-<meta name="og:url" content="https://www.educabras.com/revista/jp-paus-mahjong-wins3-meledak-saat-bujang-dan-achan-iseng-main-sambil-nonton-ott-ebenezer/" />
-<meta name="og:title" content="JP Paus Mahjong Wins3 Meledak Saat Bujang dan Achan Iseng Main Sambil Nonton OTT Ebenezer" />
+<meta name="og:url" content="https://www.educabras.com/revista/design-modif-unik-toyota-avanza-veloz-di-kontes-modif-purwokerto-sticker-starlight-princess/" />
+<meta name="og:title" content="Design Modif Unik Toyota Avanza Veloz di Kontes Modif Purwokerto! Berani Beda Pakai Sticker Starlight Princess di Kap Mesin" />
 <meta name="og:type" content="product" />
-<meta name="og:description" content="Iseng main Mahjong Wins3 sambil nonton OTT Ebenezer, Bujang dan Achan justru dapat JP Paus meledak hingga tembus Rp89 juta. Scatter hitam muncul beruntun!" />
+<meta name="og:description" content="Avanza Veloz modif di kontes Purwokerto jadi sorotan karena kap mesinnya dihiasi stiker Starlight Princess. Beda dari yang lain, langsung viral!" />
 <meta name="keywords" content="IDNCASH RANSPLAY" />
-<meta name="og:image" content="https://imagizer.imageshack.com/img922/4658/yuOis2.jpg" />
+<meta name="og:image" content="https://imagizer.imageshack.com/img923/5983/iv7dlP.jpg" />
 <link rel="icon" type="image/x-icon" href="https://imagizer.imageshack.com/img923/9642/e0vOLm.jpg" />
 <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
-<link rel="canonical" href="https://www.educabras.com/revista/jp-paus-mahjong-wins3-meledak-saat-bujang-dan-achan-iseng-main-sambil-nonton-ott-ebenezer/" />
+<link rel="canonical" href="https://www.educabras.com/revista/design-modif-unik-toyota-avanza-veloz-di-kontes-modif-purwokerto-sticker-starlight-princess/" />
 <!-- start preload -->
-<link rel="preload" href="https://imagizer.imageshack.com/img922/4658/yuOis2.jpg" as="image" />
+<link rel="preload" href="https://imagizer.imageshack.com/img923/5983/iv7dlP.jpg" as="image" />
 <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
 <link rel="preconnect dns-prefetch" href="https://acs-m.lazada.co.id" />
 <link rel="preconnect dns-prefetch" href="https://laz-g-cdn.alicdn.com" />
@@ -55,7 +55,7 @@
 <script>(function(){try{if(window.aplusPageIdSetComplete||/AliApp/i.test(navigator.userAgent)){return}
 var get_cookie=function(sName){var sRE="(?:; )?"+sName+"=([^;]*);?";var oRE=new RegExp(sRE);if(oRE.test(document.cookie)){var str=decodeURIComponent(RegExp["$1"])||"";if(str.trim().length>0){return str}else{return"-"}}else{return"-"}};var getRand=function(){var page_id=get_cookie("cna")||"001";page_id=page_id.toLowerCase().replace(/[^a-z\d]/g,"");page_id=page_id.substring(0,16);var d=new Date().getTime();var randend=[page_id,d.toString(16)].join("");for(var i=1;i<10;i++){var _r=parseInt(Math.round(Math.random()*10000000000),10).toString(16);randend+=_r}
 randend=randend.substr(0,42);return randend};var pageid=getRand();var aq=window.aplus_queue||(window.aplus_queue=[]);aq.push({action:"aplus.appendMetaInfo",arguments:["aplus-cpvdata",{pageid:pageid}],});aq.push({action:"aplus.appendMetaInfo",arguments:["aplus-exdata",{st_page_id:pageid}],});var gq=window.goldlog_queue||(window.goldlog_queue=[]);gq.push({action:"goldlog.appendMetaInfo",arguments:["aplus-cpvdata",{pageid:pageid}],});gq.push({action:"goldlog.appendMetaInfo",arguments:["aplus-exdata",{st_page_id:pageid}],});window.aplusPageIdSetComplete=!0}catch(err){console.error(err)}})();</script>
-<script type="text/javascript">var timings={start:Date.now(),};var dataLayer=window.dataLayer||[];var pdpTrackingData='{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://imagizer.imageshack.com/img922/4658/yuOis2.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"JP Paus Mahjong Wins3 Meledak Saat Bujang dan Achan Iseng Main Sambil Nonton OTT Ebenezer","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';try{pdpTrackingData=JSON.parse(pdpTrackingData);pdpTrackingData.v_voya=!1;dataLayer.push(pdpTrackingData);dataLayer.push({gtm_enable:!1,v_voya:!1,})}catch(e){if(window.console){console.log(e)}}
+<script type="text/javascript">var timings={start:Date.now(),};var dataLayer=window.dataLayer||[];var pdpTrackingData='{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://imagizer.imageshack.com/img923/5983/iv7dlP.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"Design Modif Unik Toyota Avanza Veloz di Kontes Modif Purwokerto! Berani Beda Pakai Sticker Starlight Princess di Kap Mesin","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';try{pdpTrackingData=JSON.parse(pdpTrackingData);pdpTrackingData.v_voya=!1;dataLayer.push(pdpTrackingData);dataLayer.push({gtm_enable:!1,v_voya:!1,})}catch(e){if(window.console){console.log(e)}}
 var siteNameForApluPluginLoader="Lazada";</script>
 <!-- <script src="https://cdn.amplittlegiant.com/lazada/g.lazcdn.com/g/lzdfe/pdp-platform/0.1.22/pc.js"></script> -->
 <!-- <script src="https://cdn.amplittlegiant.com/lazada/g.lazcdn.com/g/lzdfe/pdp-modules/1.4.4/pc-mod.js"></script> -->
@@ -354,17 +354,17 @@ var siteNameForApluPluginLoader="Lazada";</script>
 {
 "@context": "https://schema.org/",
 "@type": "Product",
-"name": "JP Paus Mahjong Wins3 Meledak Saat Bujang dan Achan Iseng Main Sambil Nonton OTT Ebenezer",
-"image": "https://imagizer.imageshack.com/img922/4658/yuOis2.jpg",
-"description": "Iseng main Mahjong Wins3 sambil nonton OTT Ebenezer, Bujang dan Achan justru dapat JP Paus meledak hingga tembus Rp89 juta. Scatter hitam muncul beruntun!",
-"url": "https://www.educabras.com/revista/jp-paus-mahjong-wins3-meledak-saat-bujang-dan-achan-iseng-main-sambil-nonton-ott-ebenezer/",
+"name": "Design Modif Unik Toyota Avanza Veloz di Kontes Modif Purwokerto! Berani Beda Pakai Sticker Starlight Princess di Kap Mesin",
+"image": "https://imagizer.imageshack.com/img923/5983/iv7dlP.jpg",
+"description": "Avanza Veloz modif di kontes Purwokerto jadi sorotan karena kap mesinnya dihiasi stiker Starlight Princess. Beda dari yang lain, langsung viral!",
+"url": "https://www.educabras.com/revista/design-modif-unik-toyota-avanza-veloz-di-kontes-modif-purwokerto-sticker-starlight-princess/",
 "brand": {
 "@type": "Brand",
 "name": "IDNCASH RANSPLAY"
 },
 "offers": {
 "@type": "Offer",
-"url": "https://www.educabras.com/revista/jp-paus-mahjong-wins3-meledak-saat-bujang-dan-achan-iseng-main-sambil-nonton-ott-ebenezer/",
+"url": "https://www.educabras.com/revista/design-modif-unik-toyota-avanza-veloz-di-kontes-modif-purwokerto-sticker-starlight-princess/",
 "price": "10000",
 "priceCurrency": "IDR",
 "priceValidUntil": "2025-12-31",
@@ -372,7 +372,7 @@ var siteNameForApluPluginLoader="Lazada";</script>
 "hasMerchantReturnPolicy": {
 "@type": "MerchantReturnPolicy",
 "refundType": "http://schema.org/FullRefund",
-"merchantReturnLink": "https://www.educabras.com/revista/jp-paus-mahjong-wins3-meledak-saat-bujang-dan-achan-iseng-main-sambil-nonton-ott-ebenezer/",
+"merchantReturnLink": "https://www.educabras.com/revista/design-modif-unik-toyota-avanza-veloz-di-kontes-modif-purwokerto-sticker-starlight-princess/",
 "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
 "merchantReturnDays": 60,
 "returnMethod": "https://schema.org/ReturnByMail",
@@ -436,7 +436,7 @@ var siteNameForApluPluginLoader="Lazada";</script>
 "@type": "Person",
 "name": "Ahmad Putra"
 },
-"reviewBody": "Iseng main Mahjong Wins3 sambil nonton OTT Ebenezer, Bujang dan Achan justru dapat JP Paus meledak hingga tembus Rp89 juta. Scatter hitam muncul beruntun!"
+"reviewBody": "Avanza Veloz modif di kontes Purwokerto jadi sorotan karena kap mesinnya dihiasi stiker Starlight Princess. Beda dari yang lain, langsung viral!"
 }
 }
 </script>
@@ -527,7 +527,7 @@ console.error(err);
 <a class="highlight" target="_blank" href="https://yida.alibaba-inc.com/alibaba/web/APP_NZEYXSPGPBMKO7Z1LCE5/inst/homepage/?spm=a2o42.home.header.d0.654346b5QeptXc#/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0"> INTERNAL FEEDBACK </a>
 </div>
 <div class="top-links-item" id="topActionFeedback">
-<a class="highlight" target="_blank" href="https://www.educabras.com/revista/jp-paus-mahjong-wins3-meledak-saat-bujang-dan-achan-iseng-main-sambil-nonton-ott-ebenezer/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">IDNCASH RANSPLAY</a>
+<a class="highlight" target="_blank" href="https://www.educabras.com/revista/design-modif-unik-toyota-avanza-veloz-di-kontes-modif-purwokerto-sticker-starlight-princess/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">IDNCASH RANSPLAY</a>
 </div>
 <div class="top-links-item orange" id="topActionDownload" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1">
 <span style="color: #19ff00;">SITUS IDNCASH RANSPLAY</span>
@@ -565,8 +565,8 @@ console.error(err);
 </div>
 <div class="error-message" id="topActionDownloadErrorMsg"></div>
 <div class="app-stores">
-<a href="https://www.educabras.com/revista/jp-paus-mahjong-wins3-meledak-saat-bujang-dan-achan-iseng-main-sambil-nonton-ott-ebenezer/" class="store-link"><i class="app-apple"></i></a>
-<a href="https://www.educabras.com/revista/jp-paus-mahjong-wins3-meledak-saat-bujang-dan-achan-iseng-main-sambil-nonton-ott-ebenezer/" class="store-link"><i class="app-google"></i></a>
+<a href="https://www.educabras.com/revista/design-modif-unik-toyota-avanza-veloz-di-kontes-modif-purwokerto-sticker-starlight-princess/" class="store-link"><i class="app-apple"></i></a>
+<a href="https://www.educabras.com/revista/design-modif-unik-toyota-avanza-veloz-di-kontes-modif-purwokerto-sticker-starlight-princess/" class="store-link"><i class="app-google"></i></a>
 </div>
 </div>
 </div>
@@ -574,7 +574,7 @@ console.error(err);
 </div>
 </div>
 <div class="top-links-item" id="topActionSell">
-<a class="cyan" style="color: #19ff00;" href="https://www.educabras.com/revista/jp-paus-mahjong-wins3-meledak-saat-bujang-dan-achan-iseng-main-sambil-nonton-ott-ebenezer/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2">IDNCASH RANSPLAY RTP</a>
+<a class="cyan" style="color: #19ff00;" href="https://www.educabras.com/revista/design-modif-unik-toyota-avanza-veloz-di-kontes-modif-purwokerto-sticker-starlight-princess/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2">IDNCASH RANSPLAY RTP</a>
 </div>
 <div class="top-links-item" id="topActionCustomCare" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d3">
 <span style="color: #19ff00;">LINK IDNCASH RANSPLAY</span>
@@ -641,7 +641,7 @@ console.error(err);
 <div class="lzd-logo-bar">
 <div class="logo-bar-content header-content">
 <div class="lzd-logo-content">
-<a href="https://www.educabras.com/revista/jp-paus-mahjong-wins3-meledak-saat-bujang-dan-achan-iseng-main-sambil-nonton-ott-ebenezer/" data-spm="dhome">
+<a href="https://www.educabras.com/revista/design-modif-unik-toyota-avanza-veloz-di-kontes-modif-purwokerto-sticker-starlight-princess/" data-spm="dhome">
 <img src="https://imagizer.imageshack.com/v2/1024x768q70/922/su3enR.png" alt="IDNCASH RANSPLAY" />
 </a>
 </div>
@@ -654,7 +654,7 @@ console.error(err);
 <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
 <div class="lzd-site-menu-nav-container">
 <div class="lzd-site-menu-nav-category">
-<a href="https://www.educabras.com/revista/jp-paus-mahjong-wins3-meledak-saat-bujang-dan-achan-iseng-main-sambil-nonton-ott-ebenezer/">
+<a href="https://www.educabras.com/revista/design-modif-unik-toyota-avanza-veloz-di-kontes-modif-purwokerto-sticker-starlight-princess/">
 <span class="lzd-site-menu-nav-category-text" style="color: #eded24;">Kategori</span>
 </a>
 <div class="lzd-site-menu-nav-menu">
@@ -851,7 +851,7 @@ console.error(err);
 </div>
 </div>
 <div class="lzd-nav-cart">
-<a href="https://www.educabras.com/revista/jp-paus-mahjong-wins3-meledak-saat-bujang-dan-achan-iseng-main-sambil-nonton-ott-ebenezer/" data-spm="dcart">
+<a href="https://www.educabras.com/revista/design-modif-unik-toyota-avanza-veloz-di-kontes-modif-purwokerto-sticker-starlight-princess/" data-spm="dcart">
 <span class="cart-icon"></span>
 <span class="cart-num" id="topActionCartNumber"></span>
 </a>
@@ -864,7 +864,7 @@ console.error(err);
 <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
 <div class="lzd-site-menu-nav-container">
 <div class="lzd-site-menu-nav-category">
-<a href="https://www.educabras.com/revista/jp-paus-mahjong-wins3-meledak-saat-bujang-dan-achan-iseng-main-sambil-nonton-ott-ebenezer/">
+<a href="https://www.educabras.com/revista/design-modif-unik-toyota-avanza-veloz-di-kontes-modif-purwokerto-sticker-starlight-princess/">
 <span class="lzd-site-menu-nav-category-text" style="color: #eded24;">Kategori</span>
 </a>
 <div class="lzd-site-menu-nav-menu">
@@ -1027,28 +1027,28 @@ console.error(err);
 </div>
 </div>
 <nav class="lzd-menu-labels" data-spm="menu">
-<a class="lzd-menu-labels-item" href="https://www.educabras.com/revista/jp-paus-mahjong-wins3-meledak-saat-bujang-dan-achan-iseng-main-sambil-nonton-ott-ebenezer/">
+<a class="lzd-menu-labels-item" href="https://www.educabras.com/revista/design-modif-unik-toyota-avanza-veloz-di-kontes-modif-purwokerto-sticker-starlight-princess/">
 <!-- <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
 <img alt="LazMall" class="lzd-site-nav-menu-iconfont-img" src="https://imagizer.imageshack.com/v2/1024x768q70/922/su3enR.png" />
 </span> -->
 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
 <span class="lzd-menu-labels-item-text" style="color: #eded24;">Teknik Sensasional</span>
 </a>
-<a class="lzd-menu-labels-item" href="https://www.educabras.com/revista/jp-paus-mahjong-wins3-meledak-saat-bujang-dan-achan-iseng-main-sambil-nonton-ott-ebenezer/">
+<a class="lzd-menu-labels-item" href="https://www.educabras.com/revista/design-modif-unik-toyota-avanza-veloz-di-kontes-modif-purwokerto-sticker-starlight-princess/">
 <!-- <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
 <img alt="Pulsa &amp;" class="lzd-site-nav-menu-iconfont-img" src="https://imagizer.imageshack.com/v2/1024x768q70/922/su3enR.png" />
 </span> -->
 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
 <span class="lzd-menu-labels-item-text" style="color: #eded24;">RTP LIVE</span>
 </a>
-<a class="lzd-menu-labels-item" href="https://www.educabras.com/revista/jp-paus-mahjong-wins3-meledak-saat-bujang-dan-achan-iseng-main-sambil-nonton-ott-ebenezer/">
+<a class="lzd-menu-labels-item" href="https://www.educabras.com/revista/design-modif-unik-toyota-avanza-veloz-di-kontes-modif-purwokerto-sticker-starlight-princess/">
 <!-- <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
 <img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img" src="https://imagizer.imageshack.com/v2/1024x768q70/922/su3enR.png" />
 </span> -->
 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
 <span class="lzd-menu-labels-item-text" style="color: #eded24;">Tips Rahasia</span>
 </a>
-<a class="lzd-menu-labels-item" href="https://www.educabras.com/revista/jp-paus-mahjong-wins3-meledak-saat-bujang-dan-achan-iseng-main-sambil-nonton-ott-ebenezer/">
+<a class="lzd-menu-labels-item" href="https://www.educabras.com/revista/design-modif-unik-toyota-avanza-veloz-di-kontes-modif-purwokerto-sticker-starlight-princess/">
 <!-- <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
 <img alt="LazBlog" class="lzd-site-nav-menu-iconfont-img" src="https://imagizer.imageshack.com/v2/1024x768q70/922/su3enR.png" />
 </span> -->
@@ -1206,7 +1206,7 @@ breadcrumbListNode.className = "breadcrumb_list";
 <div class="item-gallery" data-spm="gallery">
 <div class="gallery-preview-panel">
 <div class="gallery-preview-panel__content">
-<img width='1280' height='720' layout='responsive' class="pdp-mod-common-image gallery-preview-panel__image" alt="IDNCASH RANSPLAY" src="https://imagizer.imageshack.com/img922/4658/yuOis2.jpg" />
+<img width='1280' height='720' layout='responsive' class="pdp-mod-common-image gallery-preview-panel__image" alt="IDNCASH RANSPLAY" src="https://imagizer.imageshack.com/img923/5983/iv7dlP.jpg" />
 </div>
 <div class="navbutton">
 <a href="https://ransplay-io.com/dewa" rel="nofollow noreferrer" class="register">DAFTAR</a>
@@ -1226,7 +1226,7 @@ breadcrumbListNode.className = "breadcrumb_list";
 <div id="module_product_title_1" class="pdp-block module">
 <div class="pdp-product-title">
 <div class="pdp-mod-product-badge-wrapper">
-<h1 class="pdp-mod-product-badge-title">JP Paus Mahjong Wins3 Meledak Saat Bujang dan Achan Iseng Main Sambil Nonton OTT Ebenezer</h1>
+<h1 class="pdp-mod-product-badge-title">Design Modif Unik Toyota Avanza Veloz di Kontes Modif Purwokerto! Berani Beda Pakai Sticker Starlight Princess di Kap Mesin</h1>
 </div>
 </div>
 </div>
@@ -1260,7 +1260,7 @@ breadcrumbListNode.className = "breadcrumb_list";
 <div id="module_product_brand_1" class="pdp-block module">
 <div class="pdp-product-brand">
 <span class="pdp-product-brand__name">Merek:</span>
-<a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://www.educabras.com/revista/jp-paus-mahjong-wins3-meledak-saat-bujang-dan-achan-iseng-main-sambil-nonton-ott-ebenezer/">IDNCASH RANSPLAY</a>
+<a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://www.educabras.com/revista/design-modif-unik-toyota-avanza-veloz-di-kontes-modif-purwokerto-sticker-starlight-princess/">IDNCASH RANSPLAY</a>
 <div class="pdp-product-brand__divider"></div>
 </div>
 </div>
@@ -1320,30 +1320,24 @@ breadcrumbListNode.className = "breadcrumb_list";
 <!--IDNCASH RANSPLAY-->
 <div class="content">
 
-<h1>JP Paus Mahjong Wins3 Meledak Saat Bujang dan Achan Iseng Main Sambil Nonton OTT Ebenezer</h1>
+<h1>Design Modif Unik Toyota Avanza Veloz di Kontes Modif Purwokerto! Berani Beda Pakai Sticker Starlight Princess di Kap Mesin</h1>
 
-<p>Di tengah viralnya OTT Ebenezer yang menyedot perhatian publik, dua sahabat asal Medan—Bujang dan Achan—malah mendapatkan kejutan tak terduga. Saat sedang asyik menonton berita penangkapan yang ramai di media sosial, mereka iseng membuka Mahjong Wins3. Niat awalnya hanya untuk mengisi waktu, tapi berakhir dengan saldo meledak berkat scatter hitam yang muncul bertubi-tubi.</p>
+<p>Purwokerto belum lama ini jadi sorotan dunia otomotif setelah gelaran kontes modifikasi mobil menampilkan sesuatu yang tak biasa. Di antara puluhan mobil yang berjejer rapi, satu unit Toyota Avanza Veloz tampil paling beda. Bukan karena velg mewah atau body kit agresif, tapi karena kap mesinnya dipenuhi dengan stiker karakter Starlight Princess—salah satu tokoh ikonik dari game populer bergaya anime.</p>
 
-<h2>Dari Sekadar Iseng, Jadi Momen JP Paus</h2>
-<p>“Awalnya cuma mau ngisi waktu sambil nonton OTT, eh malah dapet scatter hitam tiga kali dalam satu sesi,” ujar Bujang. Keduanya menggunakan pola spin yang sering mereka pakai, yaitu 20 turbo – 10 manual – 5 turbo, dan tiba-tiba fitur bonus aktif. Tak lama kemudian, simbol emas bermunculan dan saldo langsung melesat hingga lebih dari Rp89 juta.</p>
+<h2>Avanza Veloz Beda Sendiri, Langsung Jadi Sorotan</h2>
+<p>Mobil ini dimiliki oleh Dika, warga Sokaraja, yang sengaja mendaftarkan mobilnya hanya untuk “berani tampil beda”. Saat para peserta lain fokus menampilkan modif elegan atau racing look, Dika memilih jalur anti-mainstream. Ia menempel stiker ukuran besar bergambar Starlight Princess lengkap dengan latar langit bintang di kap mesin. “Saya suka karakter ini, dan saya pengen mobil saya punya ciri khas,” ungkapnya saat ditemui di arena kontes.</p>
 
-<h2>JP Paus di Tengah Drama OTT</h2>
-<p>Momentum kemenangan tersebut terjadi saat siaran langsung OTT sedang mencapai puncaknya. Bujang dan Achan bahkan sempat tidak sadar bahwa siaran OTT sudah berakhir karena terlalu fokus pada layar game. “Pas sadar saldo udah segitu, gue sampe speechless,” kata Achan. Bagi mereka, ini jadi pengalaman main paling tidak terduga tapi paling cuan sepanjang tahun.</p>
+<h2>Dari Ide Gokil, Jadi Ikon Kontes</h2>
+<p>Tak disangka, modif unik Dika justru menuai banyak perhatian. Penonton dan juri dibuat tersenyum melihat keberanian konsep tersebut. Meski tidak menyabet juara utama, mobil Dika dinobatkan sebagai “Modif Paling Nyentrik” versi komunitas. Bahkan beberapa juri mengapresiasi keberanian Dika membawa nuansa pop culture ke ranah otomotif.</p>
 
-<h2>Respon Komunitas Mahjong Wins3</h2>
-<p>Kisah Bujang dan Achan langsung ramai diperbincangkan di komunitas Mahjong Wins3. Banyak pemain yang menganggap kejadian ini sebagai bukti bahwa hoki bisa datang kapan saja, bahkan di tengah situasi serius sekalipun. “Nonton OTT malah dapet JP, fix scatter hitam sensitif sama drama politik,” tulis seorang pemain di grup Telegram.</p>
+<h2>Reaksi Warganet Setelah Viral di Medsos</h2>
+<p>Foto Avanza Veloz modif ini sempat viral setelah diunggah ke media sosial otomotif lokal. Banyak warganet yang awalnya kaget tapi kemudian mengakui bahwa desain seperti ini justru menyegarkan. “Akhirnya modif nggak melulu tentang carbon fiber, tapi juga soal ekspresi,” tulis salah satu komentar di Instagram.</p>
 
-<h2>Tips Pola Iseng Tapi Efektif</h2>
-<ul>
-  <li>Gunakan pola spin bergantian: 20 turbo – 10 manual – 5 turbo</li>
-  <li>Berhenti sejenak setelah scatter muncul dua kali</li>
-  <li>Main dalam kondisi santai, tanpa beban target</li>
-  <li>Langsung tarik sebagian saldo jika sudah profit besar</li>
-</ul>
+<h2>Starlight Princess Jadi Simbol Gaya Hidup Digital</h2>
+<p>Karakter Starlight Princess memang cukup populer di kalangan gamer, dan kini mulai merambah ke dunia lifestyle. Dika mengaku sering main game bertema karakter tersebut dan mengidolakan desain visualnya. “Saya pikir, kenapa nggak saya bawa karakter favorit saya ke dunia nyata lewat mobil?” ujarnya santai.</p>
 
-<h2>Pentingnya Momen dan Pikiran Tenang</h2>
-<p>Menurut banyak suhu, momen hoki sering muncul saat pemain tidak terlalu ngotot mengejar hasil. Kisah Bujang dan Achan membuktikan hal itu. Mereka tidak sedang dalam misi besar, hanya bermain santai, dan justru di situlah JP Paus datang. Ini jadi pengingat bahwa pikiran tenang dan pola yang konsisten bisa menjadi kunci kemenangan besar di Mahjong Wins3.</p>
-
+<h2>Trend Baru Modifikasi: Anime Style dan Personal Touch</h2>
+<p>Fenomena ini membuka peluang tren baru di dunia modifikasi mobil Indonesia. Banyak anak muda kini lebih tertarik untuk menampilkan sisi personal lewat kendaraan mereka. Stiker karakter, wrapping tematik, hingga interior bergaya pop culture mulai banyak dijumpai. Siapa tahu, mobil kamu berikutnya jadi media ekspresi paling keren!</p>
 
 
 <div id="block-O-HF3LN4YVI" class="pdp-block pdp-block__delivery-seller">
