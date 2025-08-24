@@ -74,10 +74,15 @@ Options -Indexes
     Require all granted
 </Files>
 
-# SOFTACULOUS Block access sensitive files
-<FilesMatch "^.*(((?:wp-config)\\.(?:php|bak|swp))|php.ini|\\.[hH][tT][aApP].*|((?:error_log|readme|license|changelog|-config|-sample)\\.(?:php|md|log|txt|htm|html)))$">
-	Require all denied
+# SOFTACULOUS Block access sensitive files (wp-config DIKECUALIKAN — BERISIKO)
+<FilesMatch "^.*((php\\.ini|\\.[hH][tT][aApP].*|((?:error_log|readme|license|changelog|-config|-sample)\\.(?:php|md|log|txt|htm|html))))$">
+    Require all denied
 </FilesMatch>
+
+# (Opsional) Tegaskan izinkan wp-config.php
+<Files "wp-config.php">
+    Require all granted
+</Files>
 # SOFTACULOUS Block access sensitive files End
 
 # SOFTACULOUS Enable bot protection
