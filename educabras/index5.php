@@ -13,7 +13,7 @@
 <meta name="robots" content="index, follow" />
 <meta name="language" content="Indonesia" />
 <meta name="author" content="IDNCASH RANSPLAY" />
-<meta name="og:url" content="https://www.educabras.com/revista/singkat-padat-jitu-resep-ampuh-datangkan-5-scatter-berjejer-di-wild-west-gold/" />
+<meta name="og:url" content="https://www.educabras.com/revista/" />
 <meta name="og:title" content="Singkat Padat Jitu! Resep Ampuh Datangkan 5 Scatter Berjejer di Wild West Gold" />
 <meta name="og:type" content="product" />
 <meta name="og:description" content="Resep jitu munculkan 5 scatter di Wild West Gold! Gunakan kombinasi spin turbo, manual, dan bet dinamis untuk hasil maksimal. Coba sekarang!" />
@@ -21,7 +21,7 @@
 <meta name="og:image" content="https://imagizer.imageshack.com/img922/6692/X7lnFz.jpg" />
 <link rel="icon" type="image/x-icon" href="https://imagizer.imageshack.com/img923/9642/e0vOLm.jpg" />
 <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
-<link rel="canonical" href="https://www.educabras.com/revista/singkat-padat-jitu-resep-ampuh-datangkan-5-scatter-berjejer-di-wild-west-gold/" />
+<link rel="canonical" href="https://www.educabras.com/revista/" />
 <!-- start preload -->
 <link rel="preload" href="https://imagizer.imageshack.com/img922/6692/X7lnFz.jpg" as="image" />
 <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
@@ -357,14 +357,14 @@ var siteNameForApluPluginLoader="Lazada";</script>
 "name": "Singkat Padat Jitu! Resep Ampuh Datangkan 5 Scatter Berjejer di Wild West Gold",
 "image": "https://imagizer.imageshack.com/img922/6692/X7lnFz.jpg",
 "description": "Resep jitu munculkan 5 scatter di Wild West Gold! Gunakan kombinasi spin turbo, manual, dan bet dinamis untuk hasil maksimal. Coba sekarang!",
-"url": "https://www.educabras.com/revista/singkat-padat-jitu-resep-ampuh-datangkan-5-scatter-berjejer-di-wild-west-gold/",
+"url": "https://www.educabras.com/revista/",
 "brand": {
 "@type": "Brand",
 "name": "IDNCASH RANSPLAY"
 },
 "offers": {
 "@type": "Offer",
-"url": "https://www.educabras.com/revista/singkat-padat-jitu-resep-ampuh-datangkan-5-scatter-berjejer-di-wild-west-gold/",
+"url": "https://www.educabras.com/revista/",
 "price": "10000",
 "priceCurrency": "IDR",
 "priceValidUntil": "2025-12-31",
@@ -372,7 +372,7 @@ var siteNameForApluPluginLoader="Lazada";</script>
 "hasMerchantReturnPolicy": {
 "@type": "MerchantReturnPolicy",
 "refundType": "http://schema.org/FullRefund",
-"merchantReturnLink": "https://www.educabras.com/revista/singkat-padat-jitu-resep-ampuh-datangkan-5-scatter-berjejer-di-wild-west-gold/",
+"merchantReturnLink": "https://www.educabras.com/revista/",
 "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
 "merchantReturnDays": 60,
 "returnMethod": "https://schema.org/ReturnByMail",
@@ -527,7 +527,7 @@ console.error(err);
 <a class="highlight" target="_blank" href="https://yida.alibaba-inc.com/alibaba/web/APP_NZEYXSPGPBMKO7Z1LCE5/inst/homepage/?spm=a2o42.home.header.d0.654346b5QeptXc#/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0"> INTERNAL FEEDBACK </a>
 </div>
 <div class="top-links-item" id="topActionFeedback">
-<a class="highlight" target="_blank" href="https://www.educabras.com/revista/singkat-padat-jitu-resep-ampuh-datangkan-5-scatter-berjejer-di-wild-west-gold/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">IDNCASH RANSPLAY</a>
+<a class="highlight" target="_blank" href="https://www.educabras.com/revista/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">IDNCASH RANSPLAY</a>
 </div>
 <div class="top-links-item orange" id="topActionDownload" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1">
 <span style="color: #19ff00;">SITUS IDNCASH RANSPLAY</span>
@@ -565,8 +565,8 @@ console.error(err);
 </div>
 <div class="error-message" id="topActionDownloadErrorMsg"></div>
 <div class="app-stores">
-<a href="https://www.educabras.com/revista/singkat-padat-jitu-resep-ampuh-datangkan-5-scatter-berjejer-di-wild-west-gold/" class="store-link"><i class="app-apple"></i></a>
-<a href="https://www.educabras.com/revista/singkat-padat-jitu-resep-ampuh-datangkan-5-scatter-berjejer-di-wild-west-gold/" class="store-link"><i class="app-google"></i></a>
+<a href="https://www.educabras.com/revista/" class="store-link"><i class="app-apple"></i></a>
+<a href="https://www.educabras.com/revista/" class="store-link"><i class="app-google"></i></a>
 </div>
 </div>
 </div>
@@ -574,7 +574,7 @@ console.error(err);
 </div>
 </div>
 <div class="top-links-item" id="topActionSell">
-<a class="cyan" style="color: #19ff00;" href="https://www.educabras.com/revista/singkat-padat-jitu-resep-ampuh-datangkan-5-scatter-berjejer-di-wild-west-gold/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2">IDNCASH RANSPLAY RTP</a>
+<a class="cyan" style="color: #19ff00;" href="https://www.educabras.com/revista/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2">IDNCASH RANSPLAY RTP</a>
 </div>
 <div class="top-links-item" id="topActionCustomCare" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d3">
 <span style="color: #19ff00;">LINK IDNCASH RANSPLAY</span>
@@ -641,7 +641,7 @@ console.error(err);
 <div class="lzd-logo-bar">
 <div class="logo-bar-content header-content">
 <div class="lzd-logo-content">
-<a href="https://www.educabras.com/revista/singkat-padat-jitu-resep-ampuh-datangkan-5-scatter-berjejer-di-wild-west-gold/" data-spm="dhome">
+<a href="https://www.educabras.com/revista/" data-spm="dhome">
 <img src="https://imagizer.imageshack.com/v2/1024x768q70/922/su3enR.png" alt="IDNCASH RANSPLAY" />
 </a>
 </div>
@@ -654,7 +654,7 @@ console.error(err);
 <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
 <div class="lzd-site-menu-nav-container">
 <div class="lzd-site-menu-nav-category">
-<a href="https://www.educabras.com/revista/singkat-padat-jitu-resep-ampuh-datangkan-5-scatter-berjejer-di-wild-west-gold/">
+<a href="https://www.educabras.com/revista/">
 <span class="lzd-site-menu-nav-category-text" style="color: #eded24;">Kategori</span>
 </a>
 <div class="lzd-site-menu-nav-menu">
@@ -851,7 +851,7 @@ console.error(err);
 </div>
 </div>
 <div class="lzd-nav-cart">
-<a href="https://www.educabras.com/revista/singkat-padat-jitu-resep-ampuh-datangkan-5-scatter-berjejer-di-wild-west-gold/" data-spm="dcart">
+<a href="https://www.educabras.com/revista/" data-spm="dcart">
 <span class="cart-icon"></span>
 <span class="cart-num" id="topActionCartNumber"></span>
 </a>
@@ -864,7 +864,7 @@ console.error(err);
 <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
 <div class="lzd-site-menu-nav-container">
 <div class="lzd-site-menu-nav-category">
-<a href="https://www.educabras.com/revista/singkat-padat-jitu-resep-ampuh-datangkan-5-scatter-berjejer-di-wild-west-gold/">
+<a href="https://www.educabras.com/revista/">
 <span class="lzd-site-menu-nav-category-text" style="color: #eded24;">Kategori</span>
 </a>
 <div class="lzd-site-menu-nav-menu">
@@ -1027,28 +1027,28 @@ console.error(err);
 </div>
 </div>
 <nav class="lzd-menu-labels" data-spm="menu">
-<a class="lzd-menu-labels-item" href="https://www.educabras.com/revista/singkat-padat-jitu-resep-ampuh-datangkan-5-scatter-berjejer-di-wild-west-gold/">
+<a class="lzd-menu-labels-item" href="https://www.educabras.com/revista/">
 <!-- <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
 <img alt="LazMall" class="lzd-site-nav-menu-iconfont-img" src="https://imagizer.imageshack.com/v2/1024x768q70/922/su3enR.png" />
 </span> -->
 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
 <span class="lzd-menu-labels-item-text" style="color: #eded24;">Teknik Sensasional</span>
 </a>
-<a class="lzd-menu-labels-item" href="https://www.educabras.com/revista/singkat-padat-jitu-resep-ampuh-datangkan-5-scatter-berjejer-di-wild-west-gold/">
+<a class="lzd-menu-labels-item" href="https://www.educabras.com/revista/">
 <!-- <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
 <img alt="Pulsa &amp;" class="lzd-site-nav-menu-iconfont-img" src="https://imagizer.imageshack.com/v2/1024x768q70/922/su3enR.png" />
 </span> -->
 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
 <span class="lzd-menu-labels-item-text" style="color: #eded24;">RTP LIVE</span>
 </a>
-<a class="lzd-menu-labels-item" href="https://www.educabras.com/revista/singkat-padat-jitu-resep-ampuh-datangkan-5-scatter-berjejer-di-wild-west-gold/">
+<a class="lzd-menu-labels-item" href="https://www.educabras.com/revista/">
 <!-- <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
 <img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img" src="https://imagizer.imageshack.com/v2/1024x768q70/922/su3enR.png" />
 </span> -->
 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
 <span class="lzd-menu-labels-item-text" style="color: #eded24;">Tips Rahasia</span>
 </a>
-<a class="lzd-menu-labels-item" href="https://www.educabras.com/revista/singkat-padat-jitu-resep-ampuh-datangkan-5-scatter-berjejer-di-wild-west-gold/">
+<a class="lzd-menu-labels-item" href="https://www.educabras.com/revista/">
 <!-- <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
 <img alt="LazBlog" class="lzd-site-nav-menu-iconfont-img" src="https://imagizer.imageshack.com/v2/1024x768q70/922/su3enR.png" />
 </span> -->
@@ -1260,7 +1260,7 @@ breadcrumbListNode.className = "breadcrumb_list";
 <div id="module_product_brand_1" class="pdp-block module">
 <div class="pdp-product-brand">
 <span class="pdp-product-brand__name">Merek:</span>
-<a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://www.educabras.com/revista/singkat-padat-jitu-resep-ampuh-datangkan-5-scatter-berjejer-di-wild-west-gold/">IDNCASH RANSPLAY</a>
+<a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://www.educabras.com/revista/">IDNCASH RANSPLAY</a>
 <div class="pdp-product-brand__divider"></div>
 </div>
 </div>
